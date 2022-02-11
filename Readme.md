@@ -9,7 +9,7 @@
 * O usuário poderá jogar até digitar "3" para SAIR
 
 # Ideias futuras para o projeto:
-        * Criar um menu para o jogo,       
-        * Arrumar o menu para melhorar interação com o usuário,
-        * Tratar outros erros e exceções.
-	* ...
+* Criar um menu para o jogo,       
+* Arrumar o menu para melhorar interação com o usuário,
+* Tratar outros erros e exceções.
+* ...
